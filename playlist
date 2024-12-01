@@ -6,14 +6,13 @@
 
 #EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png",group-title="SONYLIV",
 
-#EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png",group-title="SONYLIV", BUNDESLIGA | MAINZ VS HOFFENHEIM
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1733085111~acl=*~id=155678448410001965141733035111801~hmac=9fdcaf269060c83a4e3c2b31b5703131ef5ba4fcc6d0c8c028534babe8533f80
+#EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png",group-title="SONYLIV",
 
-#EXTINF:-1,tvg-logo="https://i.ibb.co.com/xHb8Z6R/fancode.png",group-title="FANCODE",EFL CHAMPIONSHIP 2024-25
-https://dai.fancode.com/primary/109889_english_hls_4764ta-di/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co.com/xHb8Z6R/fancode.png",group-title="FANCODE",
+
 #EXTINF:-1,tvg-logo="https://i.ibb.co.com/xHb8Z6R/fancode.png",group-title="FANCODE",BANGLADESH VS WEST INDIES
 https://dai.fancode.com/primary/112345_english_hls_7307ta-no/index.m3u8
-#EXTINF:-1,tvg-logo="https://i.ibb.co.com/xHb8Z6R/fancode.png",group-title="FANCODE",ABU DHABI T10 LEAGUE 2024
-https://dai.fancode.com/primary/112623_english_hls_4863ta-di/index.m3u8
-#EXTINF:-1,tvg-logo="https://i.ibb.co.com/xHb8Z6R/fancode.png",group-title="FANCODE",GLOBAL SUPER LEAGUE 2024
-https://dai.fancode.com/primary/113493_english_hls_5188ta-di/index.m3u8
+#EXTINF:-1,tvg-logo="https://i.ibb.co.com/xHb8Z6R/fancode.png",group-title="FANCODE",
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co.com/xHb8Z6R/fancode.png",group-title="FANCODE",
