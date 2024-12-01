@@ -7,10 +7,10 @@ https://video.twimg.com/ext_tw_video/1856645911566589952/pu/pl/avc1/1280x720/A8g
 #EXTINF:-1,tvg-logo="https://i.ibb.co.com/qR58NyF/gxr.jpg", LIGUE 1 | MONTPELLIER VS LILLE
 https://video.twimg.com/ext_tw_video/1856645911566589952/pu/pl/avc1/1280x720/A8gKvSr3RJpLAsuW.m3u8
 
-#EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png", ACC U-19 | BAN VS NEP
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1733048905~acl=*~id=155678448410001965141732998904608~hmac=050f3de4757242179cb18b1728f11b1e852f24e6e144fed91a43fcf15e0ccbbb
-#EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png", ACC U-19 | SL VS AFG
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1733048905~acl=*~id=155678448410001965141732998904608~hmac=050f3de4757242179cb18b1728f11b1e852f24e6e144fed91a43fcf15e0ccbbb
+#EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png", ACC U-19 |
+https://video.twimg.com/ext_tw_video/1856645911566589952/pu/pl/avc1/1280x720/A8gKvSr3RJpLAsuW.m3u8
+#EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png", ACC U-19 |
+https://video.twimg.com/ext_tw_video/1856645911566589952/pu/pl/avc1/1280x720/A8gKvSr3RJpLAsuW.m3u8
 
 #EXTINF:-1,tvg-logo="https://i.ibb.co.com/xHb8Z6R/fancode.png", PAKISTAN VS ZIMBABWE [VPN]
 https://dai.fancode.com/primary/112358_english_hls_4996ta-di/index.m3u8
