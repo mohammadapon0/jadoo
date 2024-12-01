@@ -2,8 +2,8 @@
 
 #EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png", ACC U-19 |
 https://video.twimg.com/ext_tw_video/1856645911566589952/pu/pl/avc1/1280x720/A8gKvSr3RJpLAsuW.m3u8
-#EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png", ACC U-19 |
-https://video.twimg.com/ext_tw_video/1856645911566589952/pu/pl/avc1/1280x720/A8gKvSr3RJpLAsuW.m3u8
+#EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png", BUNDESLIGA | MAINZ VS HOFFENHEIM
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1733085111~acl=*~id=155678448410001965141733035111801~hmac=9fdcaf269060c83a4e3c2b31b5703131ef5ba4fcc6d0c8c028534babe8533f80
 
 #EXTINF:-1,tvg-logo="https://i.ibb.co.com/xHb8Z6R/fancode.png", PAKISTAN VS ZIMBABWE
 https://dai.fancode.com/primary/112358_english_hls_4996ta-di/index.m3u8
