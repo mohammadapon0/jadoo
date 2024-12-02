@@ -8,10 +8,10 @@ https://dai.fancode.com/primary/113502_english_hls_5476ta-di/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://i.ibb.co.com/xHb8Z6R/fancode.png",group-title="FANCODE",
 
-#EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png",group-title="SONYLIV",
-
-#EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png",group-title="SONYLIV",
-
+#EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png",group-title="SONYLIV",INDIA U-19 VS JAPAN U-19
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1733157496~acl=*~id=155678448410001965141733107496596~hmac=8058da531ef81c5d591170504137e8cdac9246fe13c6a4382f07d30b25516ba7
+#EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png",group-title="SONYLIV",PAKISTAN U-19 VS UAE U-19
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1733157496~acl=*~id=155678448410001965141733107496596~hmac=8058da531ef81c5d591170504137e8cdac9246fe13c6a4382f07d30b25516ba7
 #EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png",group-title="SONYLIV",
 
 #EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png",group-title="SONYLIV",
