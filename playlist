@@ -8,10 +8,10 @@ https://dai.fancode.com/primary/113727_english_hls_8212ta-no/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://i.ibb.co.com/xHb8Z6R/fancode.png",group-title="FANCODE",
 
-#EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png",group-title="SONYLIV",WWE RAW
-https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1733229839~acl=*~id=155678448410001965141733179838232~hmac=539cc55d6db016a7bf9dc69b012e81cff86e90fba4072252cf9ff453052979e7
-#EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png",group-title="SONYLIV",
-
+#EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png",group-title="SONYLIV",BAN U-19 VS SL U-19
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1733229839~acl=*~id=155678448410001965141733179838232~hmac=539cc55d6db016a7bf9dc69b012e81cff86e90fba4072252cf9ff453052979e7
+#EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png",group-title="SONYLIV",AFG U-19 VS NEP U-19
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1733229839~acl=*~id=155678448410001965141733179838232~hmac=539cc55d6db016a7bf9dc69b012e81cff86e90fba4072252cf9ff453052979e7
 #EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png",group-title="SONYLIV",
 
 #EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png",group-title="SONYLIV",
