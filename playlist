@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-logo="https://i.ibb.co.com/xHb8Z6R/fancode.png",ONE DAY CUP 2024-25
-https://dai.fancode.com/primary/109150_english_hls_5799ta-di/index.m3u8
-#EXTINF:-1,tvg-logo="https://i.ibb.co.com/xHb8Z6R/fancode.png",NEPAL PREMIER LEAGUE 2024
-https://dai.fancode.com/primary/113728_english_hls_5473ta-no/index.m3u8
+#EXTINF:-1,tvg-logo="https://i.ibb.co.com/xHb8Z6R/fancode.png",PAKISTAN VS ZIMBABWE
+https://dai.fancode.com/primary/112359_english_hls_5803ta-no/index.m3u8
+#EXTINF:-1,tvg-logo="https://i.ibb.co.com/xHb8Z6R/fancode.png",
+
 #EXTINF:-1,tvg-logo="https://i.ibb.co.com/xHb8Z6R/fancode.png",
 
 #EXTINF:-1,tvg-logo="https://i.ibb.co.com/8gzgYVg/sonyliv.png",BAN U-19 VS SL U-19
